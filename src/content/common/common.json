@@ -1,0 +1,30 @@
+{
+    "name": "Siddhant Singh",
+    "logoType": {
+        "mobile": "SS",
+        "desktop": "Siddhant Singh"
+    },
+    "mainPicture": "/assets/HP.webp",
+    "mainPictureJPG": "/assets/HP.jpeg",
+    "pronunciation": "",
+    "audioFile": "",
+    "cssVarPrefix": "ss",
+    "email": "siddhantsingh.1654@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/siddhant-singh-15b3531b7/",
+    "github": "https://github.com/Siddhant7174",
+    "resume": "",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/siddhant-singh-15b3531b7/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/Siddhant7174"
+        },
+        {
+            "type": "mail",
+            "link": "siddhantsingh.1654@gmail.com"
+        }
+    ]
+}

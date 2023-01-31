@@ -1,0 +1,64 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Lovely Professional University",
+            "degree": "Bachelor of Technology",
+            "duration": "Aug 2020 - Going",
+            "content": ["Marks: N/A"]
+        },
+        {
+            "id": "edu-2",
+            "school": "Naitional Institute of Open School",
+            "degree": "12th",
+            "duration": "2018 - 2019",
+            "content": [
+                "Marks: 73%",
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
+            ]
+        }
+    ],
+    "experiences": [],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "TypeScript",
+                "JavaScript",
+                "Python",
+                "C/C++",
+                "Java",
+                "NoSQL",
+                "SQL",
+                "Shell",
+                "React Native",
+                "Vega (D3.js)"
+            ]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
+        },
+
+        {
+            "title": "OS & Tools",
+            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
+        },
+        {
+            "title": "Design & Research",
+            "tools": [
+                "Surveys",
+                "Interviews",
+                "User Research",
+                "Design Strategy",
+                "Experience Mapping",
+                "Adobe XD",
+                "Illustrator"
+            ]
+        }
+    ]
+}
